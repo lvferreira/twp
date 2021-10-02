@@ -1,1 +1,1 @@
-# Código base para automação Mobile com Cucumber, Ruby e Appium
+Projeto de automação Mobile com Cucumber, Ruby e Appium
